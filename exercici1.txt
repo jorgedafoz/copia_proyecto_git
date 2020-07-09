@@ -1,1 +1,3 @@
-text original
+//text original
+
+fem un canvi al text original de Master
